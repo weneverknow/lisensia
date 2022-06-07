@@ -1,16 +1,27 @@
-# lisensia
+Lisensia Customer Mobile App
 
-A new Flutter project.
+Role : Freelancer
+Job Desk : Enhancement few feature
 
-## Getting Started
+Feature :
+<ul>
+  <li>Dashboard</>
+  <li>Pemohon</li>
+  <li>Berkas Saya</li>
+  <li>Izin Saya</li>
+</ul>
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/4042994/172331256-c2b93d15-7014-472f-9b0b-0c75628aaa73.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/4042994/172331765-35efce5b-8238-4570-b902-e07aef341214.mp4
+
+
+
+https://user-images.githubusercontent.com/4042994/172331941-e6c8473c-a9a4-4181-96b1-aeac2953e075.mp4
+
+
+
+https://user-images.githubusercontent.com/4042994/172332067-4601ef8f-f422-4dfb-9dd7-8dae3fd98314.mp4
+
